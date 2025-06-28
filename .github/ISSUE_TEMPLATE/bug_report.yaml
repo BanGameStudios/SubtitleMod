@@ -35,6 +35,8 @@ body:
       options:
         - Fabric
         - Forge
+        - NeoForge
+        - Bukkit
     validations:
       required: true
   - type: input
